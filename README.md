@@ -22,7 +22,6 @@
 ## 📌 Projects
 
 Most of my repositories include:
-- University assignments  
 - Personal side projects  
 - Experiments with web architecture, API design, and UI logic  
 
