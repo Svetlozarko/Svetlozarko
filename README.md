@@ -42,7 +42,7 @@ Most of my repositories include:
 `HTML` `CSS` `JavaScript`  
 
 **Databases:**  
-`Microsoft SQL Server (SSMS)` `Redis`  
+`MS SQL` `Redis`  
 
 **Tools & IDEs:**  
 `Git` `GitHub` `Visual Studio` `VS Code` `JetBrains IDEs`
