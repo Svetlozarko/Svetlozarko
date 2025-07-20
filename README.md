@@ -3,7 +3,7 @@
 🎓 I’m a **graduate of PMG "Vasil Drumev"** in **Veliko Tarnovo**  
 📘 Currently pursuing a degree in **Software Engineering** at **TU - Sofia**
 
-💻 I’m passionate about full-stack development and constantly sharpening my skills through hands-on projects and learning new technologies.
+💻 I’m passionate about full-stack development and constantly sharpening my skills through hands-on projects and learning new technologies
 
 ---
 
