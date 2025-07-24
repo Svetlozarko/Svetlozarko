@@ -55,4 +55,4 @@ Most of my repositories include:
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for stopping by 😊
