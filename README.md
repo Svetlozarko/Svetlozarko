@@ -3,8 +3,7 @@
 🎓 Graduate of **PMG "Vasil Drumev"** — Veliko Tarnovo  
 📘 Currently studying **Software Engineering** at **TU - Sofia**
 
-I’m a **backend developer** building scalable, reliable web services with ASP.NET and C#. I like clean architecture, performant backends, and bringing systems together with queues and caches.
-
+I’m a backend developer specializing in building scalable, reliable, and maintainable web services and APIs with ASP.NET and C#. I focus on clean architecture, performant backend systems, and designing fast, easy-to-scale solutions. I also have experience integrating message queues, caching strategies, containerization, CI/CD pipelines, and working with cloud platforms to deliver robust and efficient software.
 
 ## 🔧 Tech Stack
 
