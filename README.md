@@ -31,20 +31,17 @@ Most of my repositories include:
 
 ## 🔧 Tech Stack
 
-**Languages:**  
-`C#` `JavaScript` `Rust (beginner)`  
-
-**Back-End:**  
-`ASP.NET` `.NET Core` `JavaScript (Node.js basics)`  
-
-**Front-End:**  
-`HTML` `CSS` `JavaScript`  
-
-**Databases:**  
-`MS SQL` `Redis`  
-
-**Tools & IDEs:**  
-`Git` `GitHub` `Visual Studio` `VS Code` `JetBrains IDEs`
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg)
+![RabbitMQ](https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg)
+![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg)
+![MS SQL Server](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
 
 ---
 
