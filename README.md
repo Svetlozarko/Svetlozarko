@@ -5,18 +5,6 @@
 
 I’m a **backend developer** building scalable, reliable web services with ASP.NET and C#. I like clean architecture, performant backends, and bringing systems together with queues and caches.
 
----
-
-## 💡 What I Do
-
-- 🛠 Design and build backend systems with **ASP.NET / .NET Core** and **C#**  
-- 📦 Work with **RabbitMQ** for async processing and **Redis** for caching  
-- 🗄️ Manage relational data with **MS SQL Server**  
-- ⚡ Build APIs consumed by modern frontends (React) and microservices  
-- 🐳 Containerize services with **Docker** and automate with **Jenkins**  
-- 🔄 Version control and collaboration with **Git / GitHub**
-
----
 
 ## 🔧 Tech Stack
 
@@ -36,21 +24,12 @@ I’m a **backend developer** building scalable, reliable web services with ASP.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="32"/>
 </p>
 
----
 
-## 📌 Projects
 
-You’ll find backend-focused projects, API experiments, and prototypes that demonstrate caching, message queues, and containerized deployments.
 
-👉 [View my repositories](https://github.com/Svetlozarko?tab=repositories)
-
----
 
 ## 📫 Get in Touch
 
 - **Email:** svetlozartrifonov60@gmail.com  
 - **GitHub:** [Svetlozarko](https://github.com/Svetlozarko)
 
----
-
-*Always open to backend challenges and co
