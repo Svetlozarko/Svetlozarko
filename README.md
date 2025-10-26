@@ -30,5 +30,4 @@ I’m a backend developer specializing in building scalable, reliable, and maint
 ## 📫 Get in Touch
 
 - **Email:** svetlozartrifonov60@gmail.com
-- **Instagram:** https://www.instagram.com/trifonov_svetlozar
 
