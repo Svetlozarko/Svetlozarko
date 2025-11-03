@@ -15,7 +15,7 @@ My most recent project is **Mini-Redis**, a Redis implementation written in **Ru
 **🎓 EDUCATION**
 
 - Graduate from **PMG "Vasil Drumev"**, Veliko Tarnovo  
-- Currently studying **Software Engineering** at **TU Sofia**
+- Currently pursuing my bachelors in **Software Engineering** at **TU Sofia**
 
 **🔧 TECHNOLOGIES I WORK WITH**
 
