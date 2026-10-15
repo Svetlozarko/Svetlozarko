@@ -1,1 +1,1 @@
-kebab>>
+Loro Piana
